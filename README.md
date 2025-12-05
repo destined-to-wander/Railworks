@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Railworks
 
-## Setup
-
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+simple tweaks to doctor45's [The Last Voyage of the Harpy Express](https://modrinth.com/mod/harpy-express-mod)
