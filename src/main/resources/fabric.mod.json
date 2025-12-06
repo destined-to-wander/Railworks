@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "railworks",
 	"version": "0.1.0-1.21.1",
-	"name": "Railworks",
+	"name": "Harpy Express: Railworks",
 	"description": "Makes some tweaks to Doctor4t's Harpy Express mod for a more cohesive experience",
 	"authors": [
 		"DestinedToWander"
@@ -22,12 +22,10 @@
 	"mixins": [
 		"railworks.mixins.json"
 	],
-	"accessWidener" : "harpysimpleroles.accesswidener",
 	"depends": {
 		"fabricloader": "*",
 		"minecraft": "~1.21.1",
 		"java": ">=21",
-		"fabric-api": "*",
-		"harpymodloader": "*"
+		"fabric-api": "*"
 	}
 }
